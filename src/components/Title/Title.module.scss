@@ -1,0 +1,37 @@
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+  &__title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    color: #000000;
+    margin-bottom: 40px;
+  }
+
+  &__btn {
+    width: 210px;
+    height: 50px;
+    background: #282828;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    transition: all 0.5s ease-out;
+    &:hover {
+      background: #fff;
+      color: #000;
+      border: 1px solid #000;
+    }
+  }
+}
