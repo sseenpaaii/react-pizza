@@ -21,8 +21,8 @@
     transition: 0.5s background, 0.5s color;
     &:hover,
     &-active {
-      background: #000;
-      color: #fff;
+      background: orangered;
+      color: #ffffff;
     }
   }
 }
