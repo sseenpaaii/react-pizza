@@ -89,7 +89,7 @@
     font-weight: 700;
     font-size: 22px;
     line-height: 27px;
-    color: #000;
+    color: black;
     letter-spacing: 0.015em;
   }
 
@@ -111,7 +111,7 @@
 
     &-active,
     &:hover {
-      background: #fe5f1e;
+      background: orangered;
       color: #fff;
     }
   }

@@ -27,9 +27,9 @@ const Header = () => {
             alt="React Pizza"
           />
           <div className={classes["header__logo-items"]}>
-            <p className={classes["header__logo-title"]}>REACT PIZZA</p>
+            <p className={classes["header__logo-title"]}>ABDUHAYR PIZZA</p>
             <p className={classes["header__logo-desc"]}>
-              самая вкусная пицца во вселенной
+              Cочная, Mощная, Восточная пицца в Ташкенте которую вы пробовали
             </p>
           </div>
         </Link>

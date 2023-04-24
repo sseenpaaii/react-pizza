@@ -51,7 +51,7 @@
   }
   &__totalPrice {
     & span {
-      color: #fe5f1e;
+      color: orangered;
     }
   }
   &__back{
@@ -85,7 +85,7 @@
     }
   }
   &__payBtn {
-    background: #fe5f1e;
+    background: orangered;
     color: #fff;
   }
 }

@@ -23,6 +23,7 @@ const links = [
     name: 'Закрытые',
     link:'/category/closed'
   },
+  
 ]
 
 export default links

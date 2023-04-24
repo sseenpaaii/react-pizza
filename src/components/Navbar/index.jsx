@@ -1,9 +1,7 @@
 import classNames from "classnames";
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
-
 import links from "../../router";
-
 import classes from "./Navbar.module.scss";
 
 const Navbar = () => {
